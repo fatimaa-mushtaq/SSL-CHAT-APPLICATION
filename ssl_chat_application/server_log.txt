@@ -1,0 +1,218 @@
+[2025-10-11 23:08:29] [SERVER STARTED] Listening on 127.0.0.1:5557
+[2025-10-11 23:09:28] [NEW CONNECTION] Mutahir (('127.0.0.1', 60294))
+[2025-10-11 23:09:28] [CONNECTED] Mutahir (('127.0.0.1', 60294))
+[2025-10-11 23:09:28] [DISCONNECTED] ('127.0.0.1', 60294)
+[2025-10-11 23:13:50] [SERVER STARTED] Listening on 127.0.0.1:5557
+[2025-10-11 23:14:00] [NEW CONNECTION] mutahir (('127.0.0.1', 44150))
+[2025-10-11 23:14:00] [CONNECTED] mutahir (('127.0.0.1', 44150))
+[2025-10-11 23:14:08] [RECEIVED] [mutahir] (127.0.0.1:44150): hello
+[2025-10-11 23:14:43] [NEW CONNECTION] ali (('127.0.0.1', 58176))
+[2025-10-11 23:14:43] [CONNECTED] ali (('127.0.0.1', 58176))
+[2025-10-11 23:14:48] [RECEIVED] [ali] (127.0.0.1:58176): how are you??
+[2025-10-11 23:15:07] [RECEIVED] [mutahir] (127.0.0.1:44150): i am good brother. what about you??
+[2025-10-11 23:15:16] [RECEIVED] [ali] (127.0.0.1:58176): yeah i am fine as well
+[2025-10-11 23:15:36] [NEW CONNECTION] sarfraz (('127.0.0.1', 51842))
+[2025-10-11 23:15:36] [CONNECTED] sarfraz (('127.0.0.1', 51842))
+[2025-10-11 23:15:51] [RECEIVED] [sarfraz] (127.0.0.1:51842): that's sus guys!!
+[2025-10-11 23:17:29] [DISCONNECTED] ('127.0.0.1', 44150)
+[2025-10-11 23:17:31] [DISCONNECTED] ('127.0.0.1', 58176)
+[2025-10-11 23:17:33] [DISCONNECTED] ('127.0.0.1', 51842)
+[2025-10-11 23:22:16] [NEW CONNECTION] ali (('127.0.0.1', 36284))
+[2025-10-11 23:22:16] [CONNECTED] ali (('127.0.0.1', 36284))
+[2025-10-11 23:22:20] [RECEIVED] [ali] (127.0.0.1:36284): hi
+[2025-10-11 23:22:37] [NEW CONNECTION] mutahir (('127.0.0.1', 57422))
+[2025-10-11 23:22:37] [CONNECTED] mutahir (('127.0.0.1', 57422))
+[2025-10-11 23:22:43] [RECEIVED] [mutahir] (127.0.0.1:57422): ello guys
+[2025-10-11 23:22:48] [RECEIVED] [ali] (127.0.0.1:36284): sup bro
+[2025-10-11 23:22:54] [RECEIVED] [mutahir] (127.0.0.1:57422): nun much
+[2025-10-11 23:32:17] [DISCONNECTED] ('127.0.0.1', 36284)
+[2025-10-11 23:32:19] [DISCONNECTED] ('127.0.0.1', 57422)
+[2025-10-12 12:05:27] [SERVER STARTED] Listening on 0.0.0.0:5557
+[2025-10-12 12:05:42] [NEW CONNECTION] mutahir (('127.0.0.1', 42524))
+[2025-10-12 12:05:42] [CONNECTED] mutahir (('127.0.0.1', 42524))
+[2025-10-12 12:05:55] [RECEIVED RAW] mutahir: hello
+[2025-10-12 12:05:55] [BROADCAST] [mutahir] (127.0.0.1:42524): hello
+[2025-10-12 12:05:59] [RECEIVED RAW] mutahir: /quit
+[2025-10-12 12:05:59] [DISCONNECTED] mutahir ('127.0.0.1', 42524)
+[2025-10-12 12:07:27] [NEW CONNECTION] mutahir (('127.0.0.1', 46428))
+[2025-10-12 12:07:27] [CONNECTED] mutahir (('127.0.0.1', 46428))
+[2025-10-12 12:07:39] [RECEIVED RAW] mutahir: /list
+[2025-10-12 12:07:40] [RECEIVED RAW] mutahir: /list
+[2025-10-12 12:07:40] [RECEIVED RAW] mutahir: /list
+[2025-10-12 12:07:40] [RECEIVED RAW] mutahir: /list
+[2025-10-12 12:07:40] [RECEIVED RAW] mutahir: /list
+[2025-10-12 12:09:07] [RECEIVED RAW] mutahir: /quit
+[2025-10-12 12:09:07] [DISCONNECTED] mutahir ('127.0.0.1', 46428)
+[2025-10-12 12:09:11] [NEW CONNECTION] mutahir (('127.0.0.1', 37858))
+[2025-10-12 12:09:11] [CONNECTED] mutahir (('127.0.0.1', 37858))
+[2025-10-12 12:09:23] [RECEIVED RAW] mutahir: /quit
+[2025-10-12 12:09:23] [DISCONNECTED] mutahir ('127.0.0.1', 37858)
+[2025-10-12 12:10:36] [NEW CONNECTION] mutahir (('127.0.0.1', 38014))
+[2025-10-12 12:10:36] [CONNECTED] mutahir (('127.0.0.1', 38014))
+[2025-10-12 12:10:50] [RECEIVED RAW] mutahir: /pm usman hello usman
+[2025-10-12 12:13:25] [RECEIVED RAW] mutahir: /quit
+[2025-10-12 12:13:25] [DISCONNECTED] mutahir ('127.0.0.1', 38014)
+[2025-10-12 12:15:00] [SERVER STARTED] Listening on 127.0.0.1:5558
+[2025-10-12 12:18:26] [NEW CONNECTION] mutahir (('127.0.0.1', 47888))
+[2025-10-12 12:18:26] [CONNECTED] mutahir (('127.0.0.1', 47888))
+[2025-10-12 12:19:42] [NEW CONNECTION] ahmed (('127.0.0.1', 58342))
+[2025-10-12 12:19:42] [CONNECTED] ahmed (('127.0.0.1', 58342))
+[2025-10-12 12:19:50] [RECEIVED RAW] mutahir: hi
+[2025-10-12 12:19:50] [BROADCAST] [mutahir] (127.0.0.1:47888): hi
+[2025-10-12 12:19:54] [RECEIVED RAW] ahmed: hello
+[2025-10-12 12:19:54] [BROADCAST] [ahmed] (127.0.0.1:58342): hello
+[2025-10-12 12:20:13] [NEW CONNECTION] siddiqui (('127.0.0.1', 45248))
+[2025-10-12 12:20:13] [CONNECTED] siddiqui (('127.0.0.1', 45248))
+[2025-10-12 12:20:19] [RECEIVED RAW] siddiqui: wassup guys
+[2025-10-12 12:20:19] [BROADCAST] [siddiqui] (127.0.0.1:45248): wassup guys
+[2025-10-12 12:20:40] [RECEIVED RAW] siddiqui: /pm mutahir yeh ahmed se door raho
+[2025-10-12 12:20:40] [PRIVATE] [PRIVATE] siddiqui -> mutahir: yeh ahmed se door raho
+[2025-10-12 16:32:41] [SECURE SERVER STARTED] Listening on 127.0.0.1:5557 (TLS Enabled)
+[2025-10-12 16:33:22] [TLS CONNECTION ESTABLISHED] ('127.0.0.1', 49203)
+[2025-10-12 16:33:22] [NEW USER CONNECTED] laiba (('127.0.0.1', 49203))
+[2025-10-12 16:33:22] [CONNECTED] laiba (('127.0.0.1', 49203))
+[2025-10-12 16:33:41] [RECEIVED RAW] laiba: hi
+[2025-10-12 16:33:41] [BROADCAST] [laiba] (127.0.0.1:49203): hi
+[2025-10-12 16:34:22] [RECEIVED RAW] laiba: helllo
+[2025-10-12 16:34:22] [BROADCAST] [laiba] (127.0.0.1:49203): helllo
+[2025-10-12 16:37:15] [SECURE SERVER STARTED] Listening on 127.0.0.1:5557
+[2025-10-12 16:37:33] [SECURE CONNECTION] TLS handshake successful with ('127.0.0.1', 53887)
+[2025-10-12 16:37:33] [NEW CONNECTION] fatima (('127.0.0.1', 53887))
+[2025-10-12 16:37:33] [CONNECTED] fatima (('127.0.0.1', 53887))
+[2025-10-12 16:37:39] [RECEIVED RAW] fatima: /quit
+[2025-10-12 16:37:39] [SEND ERROR] [WinError 10054] An existing connection was forcibly closed by the remote host
+[2025-10-12 16:37:39] [DISCONNECTED] fatima ('127.0.0.1', 53887)
+[2025-10-12 16:37:51] [SECURE CONNECTION] TLS handshake successful with ('127.0.0.1', 53889)
+[2025-10-12 16:37:51] [NEW CONNECTION] Anonymous (('127.0.0.1', 53889))
+[2025-10-12 16:37:51] [CONNECTED] Anonymous (('127.0.0.1', 53889))
+[2025-10-12 16:37:57] [RECEIVED RAW] Anonymous: /list
+[2025-10-12 16:38:01] [RECEIVED RAW] Anonymous: hi
+[2025-10-12 16:38:01] [BROADCAST] [Anonymous] (127.0.0.1:53889): hi
+[2025-10-12 16:38:19] [RECEIVED RAW] Anonymous: /pm laiba hello
+[2025-10-12 16:38:25] [RECEIVED RAW] Anonymous: /list
+[2025-10-12 16:38:35] [RECEIVED RAW] Anonymous: /pm fatima hi
+[2025-10-12 16:38:39] [RECEIVED RAW] Anonymous: /quit
+[2025-10-12 16:38:39] [SEND ERROR] [WinError 10054] An existing connection was forcibly closed by the remote host
+[2025-10-12 16:38:39] [DISCONNECTED] Anonymous ('127.0.0.1', 53889)
+[2025-10-12 16:38:45] [SECURE CONNECTION] TLS handshake successful with ('127.0.0.1', 53894)
+[2025-10-12 16:38:46] [NEW CONNECTION] laiba (('127.0.0.1', 53894))
+[2025-10-12 16:38:46] [CONNECTED] laiba (('127.0.0.1', 53894))
+[2025-10-12 16:38:50] [RECEIVED RAW] laiba: hi
+[2025-10-12 16:38:50] [BROADCAST] [laiba] (127.0.0.1:53894): hi
+[2025-10-12 16:39:02] [RECEIVED RAW] laiba: /pm laiba hello
+[2025-10-12 16:39:02] [PRIVATE] [PRIVATE] laiba -> laiba: hello
+[2025-10-12 16:39:16] [RECEIVED RAW] laiba: /pm fatima hi
+[2025-10-12 16:39:28] [RECEIVED RAW] laiba: /pm mutahir hey
+[2025-10-12 16:41:38] [RECEIVED RAW] laiba: /quit
+[2025-10-12 16:41:38] [SEND ERROR] [WinError 10054] An existing connection was forcibly closed by the remote host
+[2025-10-12 16:41:38] [DISCONNECTED] laiba ('127.0.0.1', 53894)
+[2025-11-19 19:25:54] [SECURE SERVER STARTED] Listening on 0.0.0.0:5557
+[2025-11-19 19:26:06] [ERROR] [SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:1000)
+[2025-11-19 19:30:46] [SECURE SERVER STARTED] Listening on 0.0.0.0:5557
+[2025-11-19 19:30:53] [SECURE CONNECTION] TLS handshake successful with ('192.168.1.8', 51476)
+[2025-11-19 19:30:53] [NEW CONNECTION] humera (('192.168.1.8', 51476))
+[2025-11-19 19:30:53] [CONNECTED] humera (('192.168.1.8', 51476))
+[2025-11-19 19:33:09] [SECURE CONNECTION] TLS handshake successful with ('192.168.1.16', 55716)
+[2025-11-19 19:33:09] [NEW CONNECTION] mutahir (('192.168.1.16', 55716))
+[2025-11-19 19:33:09] [CONNECTED] mutahir (('192.168.1.16', 55716))
+[2025-11-19 19:33:26] [RECEIVED RAW] mutahir: hi
+[2025-11-19 19:33:26] [BROADCAST] [mutahir] (192.168.1.16:55716): hi
+[2025-11-19 19:33:33] [RECEIVED RAW] mutahir: how are you all
+[2025-11-19 19:33:33] [BROADCAST] [mutahir] (192.168.1.16:55716): how are you all
+[2025-11-19 19:34:31] [RECEIVED RAW] mutahir: /quit
+[2025-11-19 19:34:31] [DISCONNECTED] mutahir ('192.168.1.16', 55716)
+[2025-11-19 19:54:43] [SECURE SERVER STARTED] Listening on 0.0.0.0:5557
+[2025-11-19 19:55:41] [SECURE CONNECTION] TLS handshake successful with ('192.168.1.16', 52064)
+[2025-11-19 19:55:41] [NEW CONNECTION] mutahir (('192.168.1.16', 52064))
+[2025-11-19 19:55:41] [CONNECTED] mutahir (('192.168.1.16', 52064))
+[2025-11-19 19:55:46] [RECEIVED RAW] mutahir: hello
+[2025-11-19 19:55:46] [BROADCAST] [mutahir] (192.168.1.16:52064): hello
+[2025-11-19 19:55:52] [RECEIVED RAW] mutahir: /file humera /home/mutahir/Documents/CCN/ssl_chat_application/logger_utility.py
+[2025-11-19 19:55:59] [RECEIVED RAW] mutahir: /list
+[2025-11-19 19:56:09] [RECEIVED RAW] mutahir: /quit
+[2025-11-19 19:56:09] [DISCONNECTED] mutahir ('192.168.1.16', 52064)
+[2025-11-19 19:58:20] [SECURE CONNECTION] TLS handshake successful with ('192.168.1.16', 58766)
+[2025-11-19 19:58:20] [NEW CONNECTION] mutahir (('192.168.1.16', 58766))
+[2025-11-19 19:58:20] [CONNECTED] mutahir (('192.168.1.16', 58766))
+[2025-11-19 19:58:56] [SECURE CONNECTION] TLS handshake successful with ('192.168.1.8', 58411)
+[2025-11-19 19:58:56] [NEW CONNECTION] humera (('192.168.1.8', 58411))
+[2025-11-19 19:58:56] [CONNECTED] humera (('192.168.1.8', 58411))
+[2025-11-19 19:59:04] [RECEIVED RAW] mutahir: /list
+[2025-11-19 19:59:08] [RECEIVED RAW] humera: /list
+[2025-11-19 19:59:10] [RECEIVED RAW] humera: hi
+[2025-11-19 19:59:10] [BROADCAST] [humera] (192.168.1.8:58411): hi
+[2025-11-19 19:59:14] [RECEIVED RAW] mutahir: hello
+[2025-11-19 19:59:14] [BROADCAST] [mutahir] (192.168.1.16:58766): hello
+[2025-11-19 19:59:23] [RECEIVED RAW] mutahir: /file humera /home/mutahir/Documents/CCN/ssl_chat_application/connection_manager.py
+[2025-11-19 19:59:23] [FILE] mutahir sent /home/mutahir/Documents/CCN/ssl_chat_application/connection_manager.py to humera
+[2025-11-19 20:00:53] [RECEIVED RAW] mutahir: /file humera /home/mutahir/Documents/CCN/OSPF Notes
+[2025-11-19 20:00:53] [FILE] mutahir sent /home/mutahir/Documents/CCN/OSPF Notes to humera
+[2025-11-19 20:04:59] [RECEIVED RAW] mutahir: /quit
+[2025-11-19 20:04:59] [DISCONNECTED] mutahir ('192.168.1.16', 58766)
+[2025-11-19 20:05:49] [RECEIVED RAW] humera: /quit
+[2025-11-19 20:05:49] [SEND ERROR] EOF occurred in violation of protocol (_ssl.c:2406)
+[2025-11-19 20:05:49] [DISCONNECTED] humera ('192.168.1.8', 58411)
+[2025-11-19 20:07:24] [SECURE CONNECTION] TLS handshake successful with ('192.168.1.8', 58472)
+[2025-11-19 20:07:24] [NEW CONNECTION] usman (('192.168.1.8', 58472))
+[2025-11-19 20:07:24] [CONNECTED] usman (('192.168.1.8', 58472))
+[2025-11-19 20:07:36] [SECURE CONNECTION] TLS handshake successful with ('192.168.1.16', 33932)
+[2025-11-19 20:07:36] [NEW CONNECTION] mutahir (('192.168.1.16', 33932))
+[2025-11-19 20:07:36] [CONNECTED] mutahir (('192.168.1.16', 33932))
+[2025-11-19 20:07:39] [RECEIVED RAW] mutahir: hi
+[2025-11-19 20:07:39] [BROADCAST] [mutahir] (192.168.1.16:33932): hi
+[2025-11-19 20:07:54] [RECEIVED RAW] mutahir: /file usman /home/mutahir/Documents/CCN/Static Routing.pkt
+[2025-11-19 20:07:54] [FILE] mutahir sent /home/mutahir/Documents/CCN/Static Routing.pkt to usman
+[2025-11-19 20:08:49] [RECEIVED RAW] mutahir: /quit
+[2025-11-19 20:08:49] [DISCONNECTED] mutahir ('192.168.1.16', 33932)
+[2025-11-19 20:18:43] [SECURE SERVER STARTED] Listening on 0.0.0.0:5557
+[2025-11-19 20:20:49] [SECURE CONNECTION] TLS handshake successful with ('192.168.1.8', 58615)
+[2025-11-19 20:20:49] [NEW CONNECTION] humera (('192.168.1.8', 58615))
+[2025-11-19 20:20:49] [CONNECTED] humera (('192.168.1.8', 58615))
+[2025-11-19 20:20:51] [SECURE CONNECTION] TLS handshake successful with ('192.168.1.16', 40474)
+[2025-11-19 20:20:51] [NEW CONNECTION] mutahir (('192.168.1.16', 40474))
+[2025-11-19 20:20:51] [CONNECTED] mutahir (('192.168.1.16', 40474))
+[2025-11-19 20:20:54] [RECEIVED RAW] mutahir: /list
+[2025-11-19 20:21:05] [RECEIVED RAW] mutahir: /file humera /home/mutahir/Documents/CCN/NAT.pkt
+[2025-11-19 20:21:05] [FILE] mutahir sent NAT.pkt to humera
+[2025-11-19 20:21:47] [RECEIVED RAW] mutahir: /file humera /home/mutahir/Documents/Ai/A*Algorithm.py
+[2025-11-19 20:21:47] [FILE] mutahir sent A*Algorithm.py to humera
+[2025-11-19 20:22:00] [RECEIVED RAW] mutahir: hi
+[2025-11-19 20:22:00] [BROADCAST] [mutahir] (192.168.1.16:40474): hi
+[2025-11-19 20:22:06] [RECEIVED RAW] humera: hello
+[2025-11-19 20:22:06] [BROADCAST] [humera] (192.168.1.8:58615): hello
+[2025-11-19 20:22:09] [RECEIVED RAW] humera: how are you
+[2025-11-19 20:22:09] [BROADCAST] [humera] (192.168.1.8:58615): how are you
+[2025-11-19 20:22:12] [RECEIVED RAW] mutahir: i am good
+[2025-11-19 20:22:12] [BROADCAST] [mutahir] (192.168.1.16:40474): i am good
+[2025-11-19 20:22:27] [RECEIVED RAW] humera: /quit
+[2025-11-19 20:22:27] [SEND ERROR] EOF occurred in violation of protocol (_ssl.c:2406)
+[2025-11-19 20:22:27] [DISCONNECTED] humera ('192.168.1.8', 58615)
+[2025-11-19 20:22:40] [SECURE CONNECTION] TLS handshake successful with ('192.168.1.8', 58625)
+[2025-11-19 20:22:40] [NEW CONNECTION] humera (('192.168.1.8', 58625))
+[2025-11-19 20:22:40] [CONNECTED] humera (('192.168.1.8', 58625))
+[2025-11-19 20:22:44] [RECEIVED RAW] mutahir: hi
+[2025-11-19 20:22:44] [BROADCAST] [mutahir] (192.168.1.16:40474): hi
+[2025-11-19 20:22:50] [RECEIVED RAW] humera: hiii
+[2025-11-19 20:22:50] [BROADCAST] [humera] (192.168.1.8:58625): hiii
+[2025-11-19 20:22:57] [RECEIVED RAW] mutahir: /file humera /home/mutahir/Documents/Ai/AC-3Algorithm.py
+[2025-11-19 20:22:57] [FILE] mutahir sent AC-3Algorithm.py to humera
+[2025-11-19 20:25:53] [DISCONNECTED] mutahir ('192.168.1.16', 40474)
+[2025-11-19 20:35:41] [SECURE SERVER STARTED] Listening on 0.0.0.0:5557
+[2025-11-19 20:37:24] [SECURE CONNECTION] TLS handshake successful with ('192.168.1.8', 61652)
+[2025-11-19 20:37:24] [NEW CONNECTION] fatima (('192.168.1.8', 61652))
+[2025-11-19 20:37:24] [CONNECTED] fatima (('192.168.1.8', 61652))
+[2025-11-19 20:37:56] [SECURE CONNECTION] TLS handshake successful with ('192.168.1.16', 35402)
+[2025-11-19 20:37:56] [NEW CONNECTION] mutahir (('192.168.1.16', 35402))
+[2025-11-19 20:37:56] [CONNECTED] mutahir (('192.168.1.16', 35402))
+[2025-11-19 20:38:02] [RECEIVED RAW] mutahir: /list
+[2025-11-19 20:39:26] [RECEIVED RAW] fatima: hello mutahir
+[2025-11-19 20:39:26] [BROADCAST] [fatima] (192.168.1.8:61652): hello mutahir
+[2025-11-19 20:41:16] [RECEIVED RAW] mutahir: hi
+[2025-11-19 20:41:16] [BROADCAST] [mutahir] (192.168.1.16:35402): hi
+[2025-11-19 20:41:51] [RECEIVED RAW] fatima: /file mutahir C:/Users/dell/Documents/22.-What-are-the-Six-Rivers-of-Pakistan.png
+[2025-11-19 20:43:20] [RECEIVED RAW] fatima: /file mutahir C:/Users/dell/Desktop/2 Monthly 25 pst.docx
+[2025-11-19 20:43:32] [RECEIVED RAW] fatima: /file mutahir C:/Users/dell/Desktop/2 Monthly 25 pst.docx
+[2025-11-19 20:44:31] [RECEIVED RAW] mutahir: /quit
+[2025-11-19 20:44:31] [DISCONNECTED] mutahir ('192.168.1.16', 35402)
+[2025-11-19 20:45:39] [RECEIVED RAW] fatima: /quit
+[2025-11-19 20:45:39] [DISCONNECTED] fatima ('192.168.1.8', 61652)
